@@ -16,8 +16,7 @@
 ---
 
 <p>
-  <img src="cat.gif" width="200">
-  <img src="penguin.gif" width="200">
+  <img src="915184954_1173843341763655_2614864672243804837_n.jpg" width="250" alt="รูปของฉัน">
 </p>
 
 ---
