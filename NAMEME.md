@@ -1,6 +1,6 @@
 
 <div align="center">
-
+<link rel="stylesheet" href="me.css">
 <p>
   <img src="915184954_1173843341763655_2614864672243804837_n.jpg" width="250" alt="รูปของฉัน">
 </p>
