@@ -26,6 +26,4 @@
   <font color="#FF69B4">✨ Welcome to my profile ✨</font>
 </h3>
 
-<font color="#9370DB">♡ Thank you for visiting my GitHub ♡</font>
-
 </div>
