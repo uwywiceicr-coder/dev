@@ -1,22 +1,31 @@
 
 <div align="center">
 
-# ♡ ประวัติส่วนตัว ♡
+<h1>
+  <font color="#FF69B4">ชัยวัฒน์ บุญเลิศ</font>
+</h1>
 
-### ชัยวัฒน์ บุญเลิศ
+<h2>
+  <font color="#9370DB">🎓 ระดับชั้น ปวส.2</font>
+</h2>
 
-**นักศึกษา ระดับชั้น ปวส.2**
-
-🎂 วันเดือนปีเกิด : 19 มิถุนายน 2550
-
----
-
-<img src="cat.gif" width="200">
-
-<img src="penguin.gif" width="200">
+<h3>
+  <font color="#20B2AA">🎂 วันเดือนปีเกิด : 19 มิถุนายน 2550</font>
+</h3>
 
 ---
 
-> ♡ ยินดีต้อนรับสู่พื้นที่เล็ก ๆ ของฉัน ♡
+<p>
+  <img src="cat.gif" width="200">
+  <img src="penguin.gif" width="200">
+</p>
+
+---
+
+<h3>
+  <font color="#FF69B4">✨ Welcome to my profile ✨</font>
+</h3>
+
+<font color="#9370DB">♡ Thank you for visiting my GitHub ♡</font>
 
 </div>
