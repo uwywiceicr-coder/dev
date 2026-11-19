@@ -5,6 +5,6 @@
 <h3>วันเดือนปีเกิด : 10 มิถุนายน 2550 </h3>
 
 <div class="images">
-            <img src="ddd35e0972ba5a2b9f985e364a91f355" alt="การ์ตูนคู่">
+            <img src="ddd35e0972ba5a2b9f985e364a91f355" alt="การ์ตูนคู">
             <img src="685eb4a66bfe809067fc677bb2a361ea" alt="เพนกวิน">
 </div>
